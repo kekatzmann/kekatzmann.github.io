@@ -1,0 +1,16 @@
+---
+layout: post
+title: My Second Post
+---
+
+What's up guys. This is now my second post on my blog. It's gonna be a quick little post, but it should be good.
+
+We just analyzed a heap of MTA turnstile data. It was messy. Needed much cleaning. The data was cumulative for each turnstile unit, for each time stamp. Each time stamp was roughly 4 hours of turnstile turn data. Most were taken at 12am, 4am, 8am, 12p, 4pm, and 8pm; But this was not consistent.
+
+Notes:
+  -explain what debriefing was
+  -what data did we use?
+    -what did it look like?
+    -why did we use it?
+      -what answers did it provide us?
+  -what were our final recommendations?
